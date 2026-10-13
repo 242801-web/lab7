@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "price": 1500
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "price": 2000
+  }
+]

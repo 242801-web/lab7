@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "price": 1500
+  },
+  {
+    "id": 3,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Basics",
+    "author": "John Smith",
+    "price": 900
+  }
+]
